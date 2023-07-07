@@ -1,0 +1,75 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    margin-bottom: 1px;
+    box-shadow: 5px 5px 5px 5px;
+
+}
+.one{
+    position: sticky;
+    top: 0px;
+}
+.container-xxxl{
+    background-image: url(./images/rose.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    
+}
+.container-xxxl h1{
+    padding: 20px;
+    padding-top: 350px;
+    text-shadow: 2px 3px 4px;
+    font-size: 60px;
+    color: rgb(7, 29, 18);
+}
+p{
+    font-size: 25px;
+}
+span{
+    text-align: start;
+    font-size: 15px;
+}
+.store{
+    font-size: 60px;
+    color: rgb(241, 141, 0);
+
+}
+h2{
+    text-align: center;
+    padding-top: 30px;
+}
+.container-fluid{
+    width: 100%;
+}
+.image{
+    width: 100%;
+    height: 300px;
+    margin: 20px; 
+}
+.para{
+    font-size: 100%;
+    padding: 20px;
+    text-align: justify;
+}
+.books{
+    color: rgb(241, 141, 0);;
+    text-decoration: underline;
+    
+}
+.contact{
+    
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+.bk :hover{
+    box-shadow: 3px 4px 5px;
+    color: black;
+    width: 210px;
+    height: 310px;
+}
